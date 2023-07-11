@@ -80,4 +80,5 @@ Adkar After  Salat
 
 ![adkar_bad_salat](https://github.com/zainabJINARI/mobile_app_toward_path_of_allah/assets/111095997/790333dc-8659-4bc5-9a3d-49e57ca1c4bc)
 
-
+For The whole project contact me on 
+zainabjinari@gmail.com
