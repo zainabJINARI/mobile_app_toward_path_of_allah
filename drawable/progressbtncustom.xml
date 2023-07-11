@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#000024" />
+            <corners android:radius="999dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="15sp"
+                android:top="15sp"
+                android:right="15sp"
+                android:bottom="15sp" />
+            <stroke android:width="3sp"
+                android:color="#FCE3A4" />
+            <corners android:radius="40sp" />
+        </shape>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/progress2" />
+    </item>
+</layer-list>
